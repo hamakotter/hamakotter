@@ -43,6 +43,7 @@ Get Support!
 -->
 
 #Hamakotter
+ことしもやっちゃうぜ
 
 #仕様
 *つぶやける
