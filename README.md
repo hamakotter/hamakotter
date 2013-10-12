@@ -41,3 +41,9 @@ Get Support!
 ![Cake Power](https://raw.github.com/cakephp/cakephp/master/lib/Cake/Console/Templates/skel/webroot/img/cake.power.gif)
 
 -->
+
+#Hamakotter
+
+#仕様
+*つぶやける
+*NGできてハッピー
