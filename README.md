@@ -56,23 +56,23 @@ Get Support!
 * Post.php (Model)
 * Posts.ctp (View)
 
-#デーブル  
+#デーブル(カッコ内はテーブル名)    
 
-つぶやきを管理するテーブル  
+つぶやきを管理するテーブル(posts)    
 ----
 
 | id | ユーザー名 | つぶやき | IPアドレス | created | modifed |  
 
 ----
 
-NGを管理する  
+NGユーザーを管理する(ng_users)  
 ----
 
 | id | IPアドレス |  
 
 ----
 
-NGワードの管理  
+NGワードの管理(ng_words)  
 ----
 
 | id | NGワード |  
